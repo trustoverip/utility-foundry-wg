@@ -2,7 +2,7 @@
 This document serves as a community list of **Public Identity Utilities**.
 
 ## Getting Started
-See the [Utility Project Lifecycle Management Guide](./UTILITY_WORKFLOW.md).
+See the [Utility Project Lifecycle Management Guide](./workflow/UTILITY_WORKFLOW.md).
 
 ## Utility Directory
 
@@ -14,4 +14,4 @@ See the [Utility Project Lifecycle Management Guide](./UTILITY_WORKFLOW.md).
 | [LSSI](https://lissi.id/) | UNKNOWN | UNKNOWN| TBD |
 | [Germany Main Incubator - Minestry of Economic Affairs](https://main-incubator.com/) | UNKNOWN | UNKNOWN| TBD |
 | [Sovrin MainNet](https://www.sovrin.org/) | Running | [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy)|  [SaturnV]()|
-| [Bedrock Business Utility]() | LF Project Pre-Launch | [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy)|  [SaturnV]()| 
+| [Bedrock Business Utility]() | LF Project Pre-Launch | [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy)|  [SaturnV]()|
