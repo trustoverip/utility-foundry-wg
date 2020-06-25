@@ -30,6 +30,17 @@ A ToIP Layer 1 Utility is unique because it requires a community of stakeholders
 ### What is a Utility Project
 A formalized collaborative activity, managed by members of a Utility, that leverages ToIP guidance to establish and maintain a public identity verification service.  [See proposed Glossary Term](https://github.com/trustoverip/concepts-and-terminology-wg/issues/21.)
 
+### Additional Terms for Utility Newbies
+* **Decentralized identifiers (DID)**: A W3C Specification for unique identifiers.
+* **Schema**: A set of attribute data types and formats that can be part of a credential claim. Eg., the fields within a passport/license document.
+* **Credential Definition**: A public statement by the issuer that they will publish credentials agains a specific schema(s).
+* **Credential**: An issuer-specific data fields that can come from one/more schemas and defines the proofs sent by the holder. Eg., proof of education, age, nationality, etc.
+* **Verifiable Credential (vCred)**: A W3C Specification for Verifiable Credentials.
+Revocation List: A registry that helps identify the revocation of a private DID of a holder
+* **DID v. Verifiable Credential**:  DIDs create the cryptographic trust between two entities whereas the verifiable credential creates the business trust across the same.
+
+
+
 ## Utility Foundry Workflow
 The UFWG needs to publish guidance for the lifecycle management of Utility Projects. This guidance must consider:
 
