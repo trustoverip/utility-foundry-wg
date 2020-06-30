@@ -25,10 +25,10 @@ In the context of ToIP, a *Public Identity Utility* ("Utility") refers to an org
 
 A ToIP Layer 1 Utility is unique because it requires a community of stakeholders to collaborate on the operation and maintenance of the necessary decentralized infrastructure necessary to provide a public identity verification service. A key aspect of the Utilities infrastructure is interoperable with a  ToIP Layer 2 protocol.
 
-[See proposed Glossary Term](https://github.com/trustoverip/concepts-and-terminology-wg/issues/20.)
+[See proposed Glossary Term](https://github.com/trustoverip/concepts-and-terminology-wg/issues/20)
 
 ### What is a Utility Project
-A formalized collaborative activity, managed by members of a Utility, that leverages ToIP guidance to establish and maintain a public identity verification service.  [See proposed Glossary Term](https://github.com/trustoverip/concepts-and-terminology-wg/issues/21.)
+A formalized collaborative activity, managed by members of a Utility, that leverages ToIP guidance to establish and maintain a public identity verification service.  [See proposed Glossary Term](https://github.com/trustoverip/concepts-and-terminology-wg/issues/21)
 
 ### Additional Terms for Utility Newbies
 * **Decentralized identifiers (DID)**: A W3C Specification for unique identifiers.
@@ -38,8 +38,6 @@ A formalized collaborative activity, managed by members of a Utility, that lever
 * **Verifiable Credential (vCred)**: A W3C Specification for Verifiable Credentials.
 Revocation List: A registry that helps identify the revocation of a private DID of a holder
 * **DID v. Verifiable Credential**:  DIDs create the cryptographic trust between two entities whereas the verifiable credential creates the business trust across the same.
-
-
 
 ## Utility Foundry Workflow
 The UFWG needs to publish guidance for the lifecycle management of Utility Projects. This guidance must consider:
