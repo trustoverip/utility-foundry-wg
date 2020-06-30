@@ -18,8 +18,8 @@ The BBU is intended to serve organizations that desire to participate in digital
 
 ### Pertinent Concepts
 
-* Self-sustainability: Leveraging klessons learned from the [Sovrin Foundation](http://sovrin.org), a business model that was not rooted in philanthropic supported infrastructure must be established.
-* Self-governed: As a decentralized public service provider, the Utility must be governed as a legal entity with a transparanert governing model.
+* Self-sustainability: Leveraging lessons learned from the [Sovrin Foundation](http://sovrin.org), a business model that was not rooted in philanthropic supported infrastructure must be established.
+* Self-governed: As a decentralized public service provider, the Utility must be governed as a legal entity with a transparent governing model.
 
 ### Stakeholders / Persona
 The following subjects are stakeholders to story:
@@ -37,7 +37,7 @@ The following subjects are stakeholders to story:
 
 ### Utility Foundry Workflow
 
-![swimlanes](./img/workflow-swimlanes.png)
+![swimlanes](../img/workflow-swimlanes.png)
 
 ### Learn
 
