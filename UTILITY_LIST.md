@@ -6,12 +6,10 @@ See the [Utility Project Lifecycle Management Guide](./workflow/UTILITY_WORKFLOW
 
 ## Utility Directory
 
-| Name | Status | Layer 1 Tech | TIPs |
-| --- | --- | --- |--- |
-| [Germany Digital Government](https://www.govdigital.de/) | UNKNOWN | UNKNOWN| TBD |
-| [Eco Germany](https://www.eco.de/) | UNKNOWN | UNKNOWN| TBD |
-| [International Eco Germany](https://international.eco.de/) | UNKNOWN | UNKNOWN| TBD |
-| [LSSI](https://lissi.id/) | UNKNOWN | UNKNOWN| TBD |
-| [Germany Main Incubator - Minestry of Economic Affairs](https://main-incubator.com/) | UNKNOWN | UNKNOWN| TBD |
-| [Sovrin MainNet](https://www.sovrin.org/) | Running | [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy)|  [SaturnV]()|
-| [Bedrock Business Utility]() | LF Project Pre-Launch | [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy)|  [SaturnV]()|
+| Name | Driver | Status | Layer 1 Tech | TIPs |
+| --- | --- | --- | --- | --- |
+| [govdigital](https://www.govdigital.de) | [govdigital e.G.](https://www.govdigital.de), Germany | Planning phase, legal entity exists | [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy) | TBD |
+| [eco - Association of the Internet Industry](https://international.eco.de) | [eco - Association of the Internet Industry](https://international.eco.de), Germany | Planning phase, member collaboration | [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy) | TBD |
+| [SSI for Germany (SSI4DE)](https://www.digitale-technologien.de/DT/Redaktion/DE/Standardartikel/SchaufensterSichereDigIdentProjekte/sdi-projekt_ssi.html) | [Main Incubator GmbH](https://main-incubator.com/en/home), Germany | Project underway, co-funded by [German Federal Ministry of Economic Affairs and Energy](https://www.bmwi.de/Navigation/EN/Home/home.html)  | [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy) | TBD |
+| [Sovrin MainNet](https://www.sovrin.org) | [Sovrin Foundation](https://www.sovrin.org), Utah, USA | Running | [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy) | [SaturnV]() |
+| [Bedrock Business Utility]() | TBD | LF Project Pre-Launch | [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy) | [SaturnV]() |
