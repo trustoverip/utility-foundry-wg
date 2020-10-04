@@ -112,6 +112,7 @@ Our **Utility Foundry Workflow** is a *work-in-progress*. Each workflow step wil
 As the UFWG refines the * Utility Foundry Workflow Model*, sample descriptive experiences or hypothetical cases will be leveraged by the UFWG to validate our workflow model.
 
 1. [Bedrock Business Utility](./stories/bbu.md)
+2. [Indicio](./stories/indicio.md)
 
 ### Utility Projects
 Refer to the list of [Utility Projects](../UTILITY_LIST.md).
