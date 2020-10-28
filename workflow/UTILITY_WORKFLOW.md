@@ -36,7 +36,7 @@ A formalized collaborative activity, managed by members of a Utility, that lever
 * **Credential Definition**: A public statement by the issuer that they will publish credentials agains a specific schema(s).
 * **Credential**: An issuer-specific data fields that can come from one/more schemas and defines the proofs sent by the holder. Eg., proof of education, age, nationality, etc.
 * **Verifiable Credential (vCred)**: A W3C Specification for Verifiable Credentials.
-Revocation List: A registry that helps identify the revocation of a private DID of a holder
+* **Revocation Registry**: A registry that contains the revocation status of a related Verifiable Credential.
 * **DID v. Verifiable Credential**:  DIDs create the cryptographic trust between two entities whereas the verifiable credential creates the business trust across the same.
 
 ## Utility Foundry Workflow
