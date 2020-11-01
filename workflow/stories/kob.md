@@ -15,15 +15,12 @@ The desired characteristics of the utility are,
 - Zero-Knoweldge-Proofs(ZKP)
 - Privacy
 
-The goal is "Internet scale digital trust with close to 1 million digital credentials on the network".
-
 This initiative is driven with the help of -
 
 - Managed Service Providers - help in conceptualizing and implementing the use cases for this utility [Wipro , Kerala Blockchain Academy, Cochin University of Science and Technology]
 - Community of developers - design and build use cases for the utility through crowd sourcing initiatives
 - Associations - define and validate implementation of use case
 - Service Providers - define and validate implementation of digital identity services
-
 
 The KOB utility is intended to serve organizations that desire to participate in digital trust ecosystems and require an enterprise grade governance framework that will:
 
@@ -32,13 +29,25 @@ The KOB utility is intended to serve organizations that desire to participate in
 - Establish a governing board so that no single organization owns the Identity Utility Network
 - Require adherence to specified open standards and protocols
 
+The goal is "Internet scale digital trust with close to 1 million digital credentials on the network".
+
 
 ### Pertinent Concepts
 
 >enter content here
 
 ### Stakeholders / Persona
->enter content here
+
+The following subjects are participants in the story:
+
+- Association of Medical practitioners: Indian Medical Association (Kochi Chapter)
+- Association of Lawyers: Bar Council (Kochi Chapter)
+- Association of Real Estate Developers: CREDAI (Kochi Chapter)
+- Association of Technical Universities
+- Association of Retailers: Retailers Association of India (Kochi Chapter)
+- Association of CBSE schools: Kerala CBSE School Management Association (Kochi Chapter)
+- Association of Driving Schools
+- Residential Associations
 
 ### User Stories
 >enter content here
