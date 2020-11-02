@@ -50,7 +50,11 @@ The following subjects are participants in the story:
 - Residential Associations
 
 ### User Stories
->enter content here
+
+1. The necessity of a digital identity was found in the jurisdiction of Kochi.
+2. Vinod formed a team with the employees from Wipro as a full time contributer.
+3. Vinod and team found out the possible participants for the utility.
+4. Conducted sessions with CUSAT/Wipro/KBA to increase the participants for community contributions.
 
 ### Utility Foundry Workflow
 
