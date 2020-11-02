@@ -55,15 +55,15 @@ Some of the possible use cases are given below,
 
 1. Verification services
 
-Some of the verification services are,
+    Some of the verification services are,
 
-- Email verification
-- Phone number verification
-- Address verification
+    - Email verification
+    - Phone number verification
+    - Address verification
 
-Phone number or Email-id are the most commonly shared credential in the digital world. Even these are misused by individuals for various illegal activities. The purpose of these service is to verify one's ownership upon their credentials.
+    Phone number or Email-id are the most commonly shared credential in the digital world. Even these are misused by individuals for various illegal activities. The purpose of these service is to verify one's ownership upon their credentials.
 
-This use case is focused on offering basic verification services like email verification, phone verification services etc. which could then be bundled along with other services for offering customized digital identity services on KOB network.
+    This use case is focused on offering basic verification services like email verification, phone verification services etc. which could then be bundled along with other services for offering customized digital identity services on KOB network.
    
 
 ### Utility Foundry Workflow
