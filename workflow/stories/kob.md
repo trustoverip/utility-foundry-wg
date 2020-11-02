@@ -53,7 +53,7 @@ The following subjects are participants in the story:
 
 Some of the possible use cases are given below,
 
-1. Verification services
+1. **Verification services**
 
     Some of the verification services are,
 
@@ -64,7 +64,32 @@ Some of the possible use cases are given below,
     Phone number or Email-id are the most commonly shared credential in the digital world. Even these are misused by individuals for various illegal activities. The purpose of these service is to verify one's ownership upon their credentials.
 
     This use case is focused on offering basic verification services like email verification, phone verification services etc. which could then be bundled along with other services for offering customized digital identity services on KOB network.
+
+2. **Engaging and availing services from Doctors based on their specializations and qualifications**
    
+   In the current scenario, it will be difficult for a citizen of Kochi to find a suitable doctor for his/her needs. Usually they will have to go to reputed hospitals or will have to ask a third person. 
+   This use case aims to provide a citizen of Kochi the basic technology where in which he/she can find a suitable doctor they need.
+
+3. **Engaging lawyers who are qualified to handle specific cases**
+   
+   It is quite difficult to identify the best lawyer suitable for a particular case as only their name and qualification are given to the public. A citizen, without any proper contacts, will have to consult a series of lawyers to find the suitable one. This makes it hard and time consuming.
+
+   This use case is focused on enabling a citizen of the city of Kochi to verify that the Lawyer is qualified to handle or offer legal consultation on specific types of cases in a most efficient and trustworthy manner.
+    
+4. **Availing Driving License test by sharing proofs for eligibility**
+   
+   To prove that one is eligible for the driver's license test, he/she will have to submit a set of documents to prove all the required proofs. Then the RTO needs to validate it manually and inform the person whether they are eligible or not. It takes a huge amount of time and effort for this.
+
+   This use case is focused on enabling a citizen to present digital proofs to take up driving license test leveraging capabilities of verifiable credentials and increase efficiency of the process.
+
+
+5. **Creating student credentials for applying admission to external Universities**
+   
+   Often a student will have to share multiple credential information for applying admission to external universities. The student would need to apply and secure many of these credentials from different source independently. Not every student may be well versed with the formalities involved this and this results in students incurring delays and cost for securing all the required credentials for applying to external Universities. Lack of transparency in the process also causes some students to miss out on the requesting credentials in specific format which forces them to miss out on apply for admissions.
+
+   This use case is focused on enabling a student to collect all required digital credentials /proofs and submit them in a timely manner leveraging a workflow which offers transparency, enhance efficiency, and reduces cost to apply for admissions.
+
+
 
 ### Utility Foundry Workflow
 
