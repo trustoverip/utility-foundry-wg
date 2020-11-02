@@ -51,17 +51,28 @@ The following subjects are participants in the story:
 
 ### User Stories
 
-1. The necessity of a digital identity was found in the jurisdiction of Kochi.
-2. Vinod formed a team with the employees from Wipro as a full time contributer.
-3. Vinod and team found out the possible participants for the utility.
-4. Conducted sessions with CUSAT/Wipro/KBA to increase the participants for community contributions.
+Some of the possible use cases are given below,
+
+1. Verification services
+
+Some of the verification services are,
+
+- Email verification
+- Phone number verification
+- Address verification
+
+Phone number or Email-id are the most commonly shared credential in the digital world. Even these are misused by individuals for various illegal activities. The purpose of these service is to verify one's ownership upon their credentials.
+
+This use case is focused on offering basic verification services like email verification, phone verification services etc. which could then be bundled along with other services for offering customized digital identity services on KOB network.
+   
 
 ### Utility Foundry Workflow
 
 ![swimlanes](./img/workflow-swimlanes.png)
 
 ### Learn
->enter content here
+
+
 
 ### Convene
 >enter content here
