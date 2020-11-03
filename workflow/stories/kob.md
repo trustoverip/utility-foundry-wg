@@ -90,7 +90,6 @@ Some of the possible use cases are given below,
    This use case is focused on enabling a student to collect all required digital credentials /proofs and submit them in a timely manner leveraging a workflow which offers transparency, enhance efficiency, and reduces cost to apply for admissions.
 
 
-
 ### Utility Foundry Workflow
 
 ![swimlanes](./img/workflow-swimlanes.png)
@@ -106,7 +105,11 @@ Some of the possible use cases are given below,
 >enter content here
 
 ### Create
->enter content here
+
+1. Created a CLI manager for the ease of installing various environments.
+2. Conducted sessions for various stakeholders
+3. Brought up an verification service
+4. Conducted sessions with Hyperledgerkochi.
 
 ### Implement
 >enter content here
