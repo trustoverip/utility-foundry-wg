@@ -6,19 +6,17 @@
 
 ### Background Context
 Unlike most active utility projects, the team at uPort believes in permissionless ledgers. The thinking is that since Issuers of credentials need to follow laws from the areas they operate in anyways, the DIDs created on the public chain shouldn’t add double governance. The DIDs created may not be accepted by law, however the belief is LAW OVER CODE. The ecosystem solution would define their own governance - it doesn’t need to sit within the stack.
- 
-### Stakeholders / Persona
-This utility story is convened by: 
-* Mathieu Glaude: CEO of Northern Block Inc.
-* Rouven Heck: Digital Identity Lead at ConsenSys
 
+### Stakeholders / Persona
+* Mathieu Glaude, CEO at Northern Block
+* Rouven Heck, Digital ID Lead at ConsenSys
 
 ### User Stories
 The companies and institutions mentioned above have identified permissionless blockchains as an alternative to the SaturnV utility model
 
 ## Utility Foundry Workflow
 
-![swimlanes](../img/workflow-swimlanes.png)
+![swimlanes](https://github.com/trustoverip/utility-foundry-wg/blob/master/workflow/img/workflow-swimlanes.png)
 
 ### 1. Learn
 * The Identity team at ConsenSys identified Ethereum as an immutable ledger to store information in relation to decentralized identifiers
@@ -65,7 +63,6 @@ As of October 2020,
 * The team has created a DID Agent framework, which has similarities to the Aries agent. It is compatible with Aries and they offer a mobile SDK for this.
 * There are two existing DID methods, and they’re about to implement the equivalent of Sidetree for Ethereum.
 * The team is looking into scalable methods for revocations.
-
 
 
 
