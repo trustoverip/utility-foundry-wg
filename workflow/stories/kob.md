@@ -29,7 +29,7 @@ The KOB utility is intended to serve organizations that desire to participate in
 - Establish a governing board so that no single organization owns the Identity Utility Network
 - Require adherence to specified open standards and protocols
 
-The goal is "Internet scale digital trust with close to 1 million digital credentials on the network".
+Our mission is "Internet scale digital trust with close to 1 million digital credentials on the network".
 
 
 ### Pertinent Concepts
