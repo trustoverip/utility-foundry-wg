@@ -68,7 +68,8 @@ Initially, key decision topics will include:
 ### Convene
 One or more prospective stakeholders will typically emerge as the early convener(s) of a Utility Project. The Convener will help organize an initial set of prospective stakeholders. This group will gather to address some important topics:
 
-1. Why do we need a Utility?
+1. Who are the Conveners and/or Sponsors?
+2. Why do we need a Utility?
 2. What is unique about the desired Utility?
 3. Who will participate?
 4. What are the common stakeholder motivators?
@@ -111,8 +112,13 @@ Our **Utility Foundry Workflow** is a *work-in-progress*. Each workflow step wil
 ### Stories
 As the UFWG refines the * Utility Foundry Workflow Model*, sample descriptive experiences or hypothetical cases will be leveraged by the UFWG to validate our workflow model.
 
-1. [Bedrock Business Utility](./stories/bbu.md)
-2. [Indicio](./stories/indicio.md)
+The current list of stories is available [here](https://github.com/trustoverip/utility-foundry-wg/tree/master/workflow/stories).
 
 ### Utility Projects
 Refer to the list of [Utility Projects](../UTILITY_LIST.md).
+
+If you desire to have your public utility project listed, please do the following:
+
+1. Join the UFWG and have a representative regularly attend UFWG meetings.
+2. Provide answers to questions that will help demonstrate your projects status at the `Convene` phase. You can submit this information to the [UFWG Mailing List](mailto: utility-foundry-wg@lists.trustoverip.org)
+3. Submit a PR containing a new [Workflow Story](https://github.com/trustoverip/utility-foundry-wg/tree/master/workflow/stories)?
