@@ -120,5 +120,5 @@ Refer to the list of [Utility Projects](../UTILITY_LIST.md).
 If you desire to have your public utility project listed, please do the following:
 
 1. Join the UFWG and have a representative regularly attend UFWG meetings.
-2. Provide answers to questions that will help demonstrate your projects status at the `Convene` phase. You can submit this information to the [UFWG Mailing List](mailto: utility-foundry-wg@lists.trustoverip.org)
+2. Provide answers to questions that will help demonstrate your projects status at the `Convene` phase. You can submit this information to the [UFWG Mailing List](mailto:utility-foundry-wg@lists.trustoverip.org)
 3. Submit a PR containing a new [Workflow Story](https://github.com/trustoverip/utility-foundry-wg/tree/master/workflow/stories)?
