@@ -99,9 +99,54 @@ Some of the possible use cases are given below,
 
 
 ### Convene
->enter content here
 
-### Define
+#### 1. Who are the Conveners and/or Sponsors?
+
+The conveners are going to be,
+
+- Various associations/organizations who wish to have a digital identity.
+- Educational institutions in the city of Kochi.
+- Wipro.
+- CUSAT
+- KBA (Kerala Blockchain Academy)
+  
+
+#### 2. Why do we need a Utility?
+
+- To give a cryptographically verifiable digital credential for various associations/organizations.
+- To give the control of the identity to its owners in its every sense.
+- To cut down the red tape in identity verification.
+- To give a digital identity that is free of forgery or any such malpractice.
+  
+
+#### 3. What is unique about the desired Utility?
+
+- The utiltiy is restricted to a particular jurisdiction, the city of Kochi.
+- The utility also wishes to cut the expense in using various infrastructure to the possible minimum.
+  
+
+#### 4. Who will participate?
+
+- Various associations/organizations in the city of Kochi who wishes to have a digital identity. (To name a few - IMA, Bar Council, Wipro, CUSAT)
+- Colleges in the city of Kochi.
+- Various service providers.
+- Citizens of Kochi.
+
+
+#### 5. What are the common stakeholder motivators?
+
+- Low expense in hosting a node.
+- Dedicated community cloud for availing shared infra.
+- Verified digital identity.
+- Privacy.
+- Complete ownership of one's own credential.
+- ZKP
+
+###### 6. What are the common stakeholder requirements?
+
+- Ability to host their own infrastructure (In this absense , they can avail the community cloud service.).
+
+1. ### Define
 >enter content here
 
 ### Create
