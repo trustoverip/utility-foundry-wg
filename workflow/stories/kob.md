@@ -21,7 +21,6 @@ This initiative is driven with the help of -
 - Managed Service Providers - help in conceptualizing and implementing the use cases for this utility [Wipro , Kerala Blockchain Academy, Cochin University of Science and Technology]
 - Community of developers - design and build use cases for the utility through crowd sourcing initiatives
 - Associations - define and validate implementation of use case
-- Service Providers - define and validate implementation of digital identity services
 
 The KOB utility is intended to serve organizations that desire to participate in digital trust ecosystems and require an enterprise grade governance framework that will:
 
@@ -36,8 +35,10 @@ Our mission is "Internet scale digital trust with close to 1 million digital cre
 ### Pertinent Concepts
 
 * Jurisdiction: The public identity utility will be focused in a particular jurisdiction, the city of Kochi.
-* Low cost: The utility wishes to have the ability where the stakeholders can host their nodes with a bare minimum cost.
+* Low cost: The utility aims to bring down the cost to be incurred by the stake holders for hosting a node to the possible minimum
 * Community cloud: The utility will also have a community cloud where service providers can host their services and other participants can avail them. 
+* Service Providers - The service providers will define and validate implementation of digital identity services as well as host their services in the community cloud.
+
 
 ### Stakeholders / Persona
 
