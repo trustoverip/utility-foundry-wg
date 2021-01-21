@@ -148,7 +148,7 @@ The conveners are going to be,
 
 ### Define
    
-Using the [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/) as a model, a simplified governance framework was built. Reducing the number of documents drastically and making governance easier to read and understand was one of the primary goals. The Indicio networks are run with a very similar governance and structure as what the Sovrin Networks were based on. All documents are open source, and it will be operated as a public decentralized network. As "Network of Networks" becomes a reality, we hope to be available and at the forefront of collaboration and testing.
+Using the [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/) as a model, a simplified governance framework was built. Reducing the number of documents drastically and making governance easier to read and understand was one of the primary goals. The KOBPIU networks are run with a very similar governance and structure as what the Sovrin Networks were based on. All documents are open source, and it will be operated as a public decentralized network. As "Network of Networks" becomes a reality, we hope to be available and at the forefront of collaboration and testing.
 
 * Will use Linux Foundation open source project models.
 * Will use Hyperledger Indy as the ledger technology
