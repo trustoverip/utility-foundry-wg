@@ -22,7 +22,7 @@ This initiative is driven with the help of -
 - Community of developers - design and build use cases for the utility through crowd sourcing initiatives
 - Associations - define and validate implementation of use case
 
-The KOB utility is intended to serve organizations that desire to participate in digital trust ecosystems and require an enterprise grade governance framework that will:
+The KOB utility is intended to serve organizations that desire to participate in digital trust ecosystems and require an enterprise grade governance framework. The framework will:
 
 - Enforce permissioned-writes with contractual instruments that will conform to privacy regulations such as GDPR
 - Maintain financial sustainability of the consortium members without the use of cryptographic tokens
@@ -174,8 +174,8 @@ Using the [Sovrin Governance Framework](https://sovrin.org/library/sovrin-govern
    
 ### Implement
 
-- Wrote Governance documents with Sovrin's Governance Framework as a reference.
-- Wrote Steward Agreement.
+- Drafted Governance documents with Sovrin's Governance Framework as a reference.
+- Drafted Steward Agreement.
   
 
 ### Maintain
