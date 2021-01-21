@@ -147,17 +147,29 @@ The conveners are going to be,
 - Ability to host their own infrastructure (In this absense , they can avail the community cloud service.).
 
 1. ### Define
->enter content here
+   
+Using the [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/) as a model, a simplified governance framework was built. Reducing the number of documents drastically and making governance easier to read and understand was one of the primary goals. The Indicio networks are run with a very similar governance and structure as what the Sovrin Networks were based on. All documents are open source, and it will be operated as a public decentralized network. As "Network of Networks" becomes a reality, we hope to be available and at the forefront of collaboration and testing.
+
+* Will use Linux Foundation open source project models.
+* Will use Hyperledger Indy as the ledger technology
+* Will begin by building a TestNet, then will build a production network and finally a demonstration network as more and more Node Operators come onboard.
 
 ### Create
 
 1. Created a CLI manager for the ease of installing various environments.
-2. Conducted sessions for various stakeholders
-3. Brought up an verification service
+2. Conducted sessions for various stakeholders.
+3. Brought up a verification service.
 4. Conducted sessions with Hyperledgerkochi.
+5. Built up a website for the project.
+6. Recruited a steward.
+7. 
+   
 
 ### Implement
->enter content here
+
+- Wrote Governance documents with Sovrin's Governance Framework as a reference.
+- Wrote Steward Agreement.
+- 
 
 ### Maintain
 >enter content here
