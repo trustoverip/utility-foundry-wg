@@ -22,16 +22,16 @@ In this context it is important to note that the network is operated as a test e
 ### Stakeholders / Persona
 The following subjects are stakeholders to story:
 
-The **consortium members** are: Main Incubator GmbH, Robert Bosch GmbH, Bundesdruckerei GmbH, esatus AG and the Technical University of Berlin.
-The consortium includes several **associated partners** including: The Federal Office for Migration and Refugees of Germany; Ministry of Commerce, Innovation, Digitalization and Energy of the state of North-Rhine Westphalia; BWI GmbH; Berlin Senate Department for Economics, Energy and Public Enterprises; Deutsche Börse AG; regio iT gesellschaft für informationstechnologie mbh; Verband der Vereine Creditreform e.V.; Commerzbank AG; Deutsche Bahn AG; The City of Cologne; ING Germany; Telekom Innovation Labs (Deutsche Telekom AG); Siemens AG; Bank-Verlag GmbH; GS1 Germany GmbH, Festo SE & Co KG;  
-**Further partners** will join the consortium for the next phase of the project, however the necessary contracts still have to be signed. 
-The project is supported and funded by the **Federal Ministry of Economics and Energy of Germany.** More information can be found [here](https://www.digitale-technologien.de/DT/Redaktion/DE/Standardartikel/SchaufensterSichereDigIdentProjekte/sdi-projekt_ssi.html)
-
-###This utility story is convened by:
-Adrian Doerk (Convener): Head of Communication at the IDunion consortium, employed at the consortium leader Main Incubator GmbH. 
-Helge Michael (Convener): Head of the IDunion project, employed at the consortium leader Main Incubator GmbH
-Dr. André Kudra (Convener): CIO at the esatus AG, Chair of the Utility WG at ToIP
-Anna Kathrina Pfeiffer (Convener): Head of  legal / regulatory audit at the IDunion consortium, data protection officer (DPO) at the esatus AG.
+* The **consortium members** are: Main Incubator GmbH, Robert Bosch GmbH, Bundesdruckerei GmbH, esatus AG and the Technical University of Berlin.  
+* The consortium includes several **associated partners** including: The Federal Office for Migration and Refugees of Germany; Ministry of Commerce, Innovation, Digitalization and Energy of the state of North-Rhine Westphalia; BWI GmbH; Berlin Senate Department for Economics, Energy and Public Enterprises; Deutsche Börse AG; regio iT gesellschaft für informationstechnologie mbh; Verband der Vereine Creditreform e.V.; Commerzbank AG; Deutsche Bahn AG; The City of Cologne; ING Germany; Telekom Innovation Labs (Deutsche Telekom AG); Siemens AG; Bank-Verlag GmbH; GS1 Germany GmbH, Festo SE & Co KG;.   
+* **Further partners** will join the consortium for the next phase of the project, however the necessary contracts still have to be signed.  
+* The project is supported and funded by the **Federal Ministry of Economics and Energy of Germany.** More information can be found [here](https://www.digitale-technologien.de/DT/Redaktion/DE/Standardartikel/SchaufensterSichereDigIdentProjekte/sdi-projekt_ssi.html)
+ 
+### This utility story is convened by:
+Adrian Doerk (Convener): Head of Communication at the IDunion consortium, employed at the consortium leader Main Incubator GmbH.  
+Helge Michael (Convener): Head of the IDunion project, employed at the consortium leader Main Incubator GmbH.  
+Dr. André Kudra (Convener): CIO at the esatus AG, Chair of the Utility WG at ToIP.  
+Anna Kathrina Pfeiffer (Convener): Head of  legal / regulatory audit at the IDunion consortium, data protection officer (DPO) at the esatus AG.  
 
 ### User Stories
 1. The companies and institutions mentioned above share a common business need for a public identity utility and decided to collaboratively explore the viability of a utility with a strong focus on the regulatory requirements of the European Union. 
