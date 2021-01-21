@@ -14,6 +14,7 @@ The desired characteristics of the utility are,
 - Consent management
 - Zero-Knoweldge-Proofs(ZKP)
 - Privacy
+- Security
 
 This initiative is driven with the help of -
 
@@ -34,7 +35,9 @@ Our mission is "Internet scale digital trust with close to 1 million digital cre
 
 ### Pertinent Concepts
 
->enter content here
+* Jurisdiction: The public identity utility will be focused in a particular jurisdiction, the city of Kochi.
+* Low cost: The utility wishes to have the ability where the stakeholders can host their nodes with a bare minimum cost.
+* Community cloud: The utility will also have a community cloud where service providers can host their services and other participants can avail them. 
 
 ### Stakeholders / Persona
 
@@ -96,7 +99,10 @@ Some of the possible use cases are given below,
 
 ### Learn
 
-
+- The necessity for a decentralised network which provides privacy as well as security was found out.
+- Wipro took the initiative in developing a project which focuses on developing a decentralised identity network which provide both security and privacy.
+- The target audience of this project were various associations residing in the city of Kochi, who is interested in participating in a decentralised network.
+- Few stakeholders were identified for the project.
 
 ### Convene
 
@@ -148,7 +154,7 @@ The conveners are going to be,
 
 ### Define
    
-Using the [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/) as a model, a simplified governance framework was built. Reducing the number of documents drastically and making governance easier to read and understand was one of the primary goals. The KOBPIU networks are run with a very similar governance and structure as what the Sovrin Networks were based on. All documents are open source, and it will be operated as a public decentralized network. As "Network of Networks" becomes a reality, we hope to be available and at the forefront of collaboration and testing.
+Using the [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/) as a model, a simplified governance framework was built. The KOBPIU networks are run with a very similar governance and structure as what the Sovrin Networks were based on, except that the network will be built for the city of Kochi. All documents are open source, and it will be operated as a public decentralized network. As "Network of Networks" becomes a reality, we hope to be available and at the forefront of collaboration and testing.
 
 * Will use Linux Foundation open source project models.
 * Will use Hyperledger Indy as the ledger technology
@@ -164,7 +170,7 @@ Using the [Sovrin Governance Framework](https://sovrin.org/library/sovrin-govern
 6. Recruited a steward.
    
    
-
+   
 ### Implement
 
 - Wrote Governance documents with Sovrin's Governance Framework as a reference.
