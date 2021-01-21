@@ -142,7 +142,7 @@ The conveners are going to be,
 - Complete ownership of one's own credential.
 - ZKP
 
-###### 6. What are the common stakeholder requirements?
+#### 6. What are the common stakeholder requirements?
 
 - Ability to host their own infrastructure (In this absense , they can avail the community cloud service.).
 
