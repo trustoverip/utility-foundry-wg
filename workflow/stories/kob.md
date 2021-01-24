@@ -111,11 +111,11 @@ Some of the possible use cases are given below,
 
 The conveners are going to be,
 
-- Various associations/organizations who wish to have a digital identity.
-- Educational institutions in the city of Kochi.
 - Wipro.
 - CUSAT
 - KBA (Kerala Blockchain Academy)
+- Various associations/organizations who wish to have a digital identity.
+- Educational institutions in the city of Kochi.
   
 
 #### 2. Why do we need a Utility?
@@ -129,24 +129,29 @@ The conveners are going to be,
 #### 3. What is unique about the desired Utility?
 
 - The utiltiy is restricted to a particular jurisdiction, the city of Kochi.
-- The utility also wishes to cut the expense in using various infrastructure to the possible minimum.
+- The utility aims to cut down the cost of hosting a node, incurred by the associations, to the possible minimum.
   
 
 #### 4. Who will participate?
 
-- Various associations/organizations in the city of Kochi who wishes to have a digital identity. (To name a few - IMA, Bar Council, Wipro, CUSAT)
-- Colleges in the city of Kochi.
-- Various service providers.
-- Citizens of Kochi.
-
-
+- Association of Medical practitioners: Indian Medical Association (Kochi Chapter)
+- Association of Lawyers: Bar Council (Kochi Chapter)
+- Association of Real Estate Developers: CREDAI (Kochi Chapter)
+- Association of Technical Universities
+- Association of Retailers: Retailers Association of India (Kochi Chapter)
+- Association of CBSE schools: Kerala CBSE School Management Association (Kochi Chapter)
+- Association of Driving Schools
+- Residential Associations
+  
 #### 5. What are the common stakeholder motivators?
 
+- Ownership of one's digital identity.
+- Privacy.
+- Trusted digital services offering. 
 - Low expense in hosting a node.
+- Enhance confidency and trust on digital service providers.
 - Dedicated community cloud for availing shared infra.
 - Verified digital identity.
-- Privacy.
-- Complete ownership of one's own credential.
 - ZKP
 
 #### 6. What are the common stakeholder requirements?
