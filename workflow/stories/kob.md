@@ -2,13 +2,13 @@
 
 | Story Name | Case Study Type |
 | --- | --- |
-| KOB Utility | Actual |
+| KOB Public Identity Utility | Actual |
 
 
 
 ### Background Context
 
-The KochiOrgBook Utility is a community first initiative driven by Wipro whose primary focus is to provide a cryptographically verifiable digital identity for the citizens and organisations/associations residing in the city of Kochi, where these organisations/associations/citizens can present these digital identities in place of paper credentials whenever required.In the current scenario, it requires a lot of effort, time and documents to prove one's identity or eligibility. The utility aims to cut down this red tape by providing these digital identities in the most efficient and easiestt way possible.
+The KochiOrgBook Public Identity Utility(KOBPIU) is a community first initiative driven by Wipro whose primary focus is to provide a cryptographically verifiable digital identity for the citizens and organisations/associations residing in the city of Kochi, where these organisations/associations/citizens can present these digital identities in place of paper credentials whenever required.In the current scenario, it requires a lot of effort, time and documents to prove one's identity or eligibility. The utility aims to cut down this red tape by providing these digital identities in the most efficient and easiestt way possible.
 
 The desired characteristics of the utility are,
 - Consent management
@@ -18,11 +18,11 @@ The desired characteristics of the utility are,
 
 This initiative is driven with the help of -
 
-- Managed Service Providers - help in conceptualizing and implementing the use cases for this utility [Wipro , Kerala Blockchain Academy, Cochin University of Science and Technology]
+- Managed Service Providers - help in conceptualizing and implementing the use cases for this utility.
 - Community of developers - design and build use cases for the utility through crowd sourcing initiatives
 - Associations - define and validate implementation of use case
 
-The KOB utility is intended to serve organizations that desire to participate in digital trust ecosystems and require an enterprise grade governance framework. The framework will:
+The KOBPIU is intended to serve organizations that desire to participate in digital trust ecosystems and require an enterprise grade governance framework. The framework will:
 
 - Enforce permissioned-writes with contractual instruments that will conform to privacy regulations such as GDPR
 - Maintain financial sustainability of the consortium members without the use of cryptographic tokens
