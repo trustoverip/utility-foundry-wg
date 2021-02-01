@@ -67,7 +67,7 @@ Some of the possible use cases are given below,
 
     Phone number or Email-id are the most commonly shared credential in the digital world. Even these are misused by individuals for various illegal activities. The purpose of these service is to verify one's ownership upon their credentials.
 
-    This use case is focused on offering basic verification services like email verification, phone verification services etc. which could then be bundled along with other services for offering customized digital identity services on KOB network.
+    This use case is focused on offering basic verification services like email verification, phone verification services etc. which could then be bundled along with other services for offering customized digital identity services on KOBPIU network.
 
 2. **Engaging and availing services from Doctors based on their specializations and qualifications**
    
