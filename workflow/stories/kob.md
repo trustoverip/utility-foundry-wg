@@ -2,27 +2,27 @@
 
 | Story Name | Case Study Type |
 | --- | --- |
-| KOB Utility | Actual |
+| KOB Public Identity Utility | Actual |
 
 
 
 ### Background Context
 
-The KochiOrgBook Utility is a community first initiative driven by Wipro whose primary focus is to provide a cryptographically verifiable digital identity for the citizens and organisations/associations residing in the city of Kochi, where these organisations/associations/citizens can present these digital identities in place of paper credentials whenever required.In the current scenario, it requires a lot of effort, time and documents to prove one's identity or eligibility. The utility aims to cut down this red tape by providing these digital identities in the most efficient and easiestt way possible.
+The KochiOrgBook Public Identity Utility(KOBPIU) is a community first initiative driven by Wipro whose primary focus is to provide a cryptographically verifiable digital identity for the citizens and organisations/associations residing in the city of Kochi, where these organisations/associations/citizens can present these digital identities in place of paper credentials whenever required.In the current scenario, it requires a lot of effort, time and documents to prove one's identity or eligibility. The utility aims to cut down this red tape by providing these digital identities in the most efficient and easiestt way possible.
 
 The desired characteristics of the utility are,
 - Consent management
 - Zero-Knoweldge-Proofs(ZKP)
 - Privacy
+- Security
 
 This initiative is driven with the help of -
 
-- Managed Service Providers - help in conceptualizing and implementing the use cases for this utility [Wipro , Kerala Blockchain Academy, Cochin University of Science and Technology]
+- Managed Service Providers - help in conceptualizing and implementing the use cases for this utility.
 - Community of developers - design and build use cases for the utility through crowd sourcing initiatives
 - Associations - define and validate implementation of use case
-- Service Providers - define and validate implementation of digital identity services
 
-The KOB utility is intended to serve organizations that desire to participate in digital trust ecosystems and require an enterprise grade governance framework that will:
+The KOBPIU is intended to serve organizations that desire to participate in digital trust ecosystems and require an enterprise grade governance framework. The framework will:
 
 - Enforce permissioned-writes with contractual instruments that will conform to privacy regulations such as GDPR
 - Maintain financial sustainability of the consortium members without the use of cryptographic tokens
@@ -34,7 +34,11 @@ Our mission is "Internet scale digital trust with close to 1 million digital cre
 
 ### Pertinent Concepts
 
->enter content here
+* Jurisdiction: The public identity utility will be focused in a particular jurisdiction, the city of Kochi.
+* Low cost: The utility aims to bring down the cost to be incurred by the stake holders for hosting a node to the possible minimum
+* Community cloud: The utility will also have a community cloud where service providers can host their services and other participants can avail them. 
+* Service Providers - The service providers will define and validate implementation of digital identity services as well as host their services in the community cloud.
+
 
 ### Stakeholders / Persona
 
@@ -63,7 +67,7 @@ Some of the possible use cases are given below,
 
     Phone number or Email-id are the most commonly shared credential in the digital world. Even these are misused by individuals for various illegal activities. The purpose of these service is to verify one's ownership upon their credentials.
 
-    This use case is focused on offering basic verification services like email verification, phone verification services etc. which could then be bundled along with other services for offering customized digital identity services on KOB network.
+    This use case is focused on offering basic verification services like email verification, phone verification services etc. which could then be bundled along with other services for offering customized digital identity services on KOBPIU network.
 
 2. **Engaging and availing services from Doctors based on their specializations and qualifications**
    
@@ -96,7 +100,10 @@ Some of the possible use cases are given below,
 
 ### Learn
 
-
+- The necessity for a decentralised network which provides privacy as well as security was found out.
+- Wipro took the initiative in developing a project which focuses on developing a decentralised identity network which provide both security and privacy.
+- The target audience of this project were various associations residing in the city of Kochi, who is interested in participating in a decentralised network.
+- Few stakeholders were identified for the project.
 
 ### Convene
 
@@ -104,11 +111,11 @@ Some of the possible use cases are given below,
 
 The conveners are going to be,
 
-- Various associations/organizations who wish to have a digital identity.
-- Educational institutions in the city of Kochi.
 - Wipro.
 - CUSAT
 - KBA (Kerala Blockchain Academy)
+- Various associations/organizations who wish to have a digital identity.
+- Educational institutions in the city of Kochi.
   
 
 #### 2. Why do we need a Utility?
@@ -122,24 +129,29 @@ The conveners are going to be,
 #### 3. What is unique about the desired Utility?
 
 - The utiltiy is restricted to a particular jurisdiction, the city of Kochi.
-- The utility also wishes to cut the expense in using various infrastructure to the possible minimum.
+- The utility aims to cut down the cost of hosting a node, incurred by the associations, to the possible minimum.
   
 
 #### 4. Who will participate?
 
-- Various associations/organizations in the city of Kochi who wishes to have a digital identity. (To name a few - IMA, Bar Council, Wipro, CUSAT)
-- Colleges in the city of Kochi.
-- Various service providers.
-- Citizens of Kochi.
-
-
+- Association of Medical practitioners: Indian Medical Association (Kochi Chapter)
+- Association of Lawyers: Bar Council (Kochi Chapter)
+- Association of Real Estate Developers: CREDAI (Kochi Chapter)
+- Association of Technical Universities
+- Association of Retailers: Retailers Association of India (Kochi Chapter)
+- Association of CBSE schools: Kerala CBSE School Management Association (Kochi Chapter)
+- Association of Driving Schools
+- Residential Associations
+  
 #### 5. What are the common stakeholder motivators?
 
+- Ownership of one's digital identity.
+- Privacy.
+- Trusted digital services offering. 
 - Low expense in hosting a node.
+- Enhance confidency and trust on digital service providers.
 - Dedicated community cloud for availing shared infra.
 - Verified digital identity.
-- Privacy.
-- Complete ownership of one's own credential.
 - ZKP
 
 #### 6. What are the common stakeholder requirements?
@@ -148,7 +160,7 @@ The conveners are going to be,
 
 ### Define
    
-Using the [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/) as a model, a simplified governance framework was built. Reducing the number of documents drastically and making governance easier to read and understand was one of the primary goals. The KOBPIU networks are run with a very similar governance and structure as what the Sovrin Networks were based on. All documents are open source, and it will be operated as a public decentralized network. As "Network of Networks" becomes a reality, we hope to be available and at the forefront of collaboration and testing.
+Using the [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/) as a model, a simplified governance framework was built. The KOBPIU networks are run with a very similar governance and structure as what the Sovrin Networks were based on, except that the network will be built for the city of Kochi. All documents are open source, and it will be operated as a public decentralized network. As "Network of Networks" becomes a reality, we hope to be available and at the forefront of collaboration and testing.
 
 * Will use Linux Foundation open source project models.
 * Will use Hyperledger Indy as the ledger technology
@@ -164,11 +176,11 @@ Using the [Sovrin Governance Framework](https://sovrin.org/library/sovrin-govern
 6. Recruited a steward.
    
    
-
+   
 ### Implement
 
-- Wrote Governance documents with Sovrin's Governance Framework as a reference.
-- Wrote Steward Agreement.
+- Drafted Governance documents with Sovrin's Governance Framework as a reference.
+- Drafted Steward Agreement.
   
 
 ### Maintain
