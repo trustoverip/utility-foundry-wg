@@ -10,12 +10,6 @@
 
 The KochiOrgBook Public Identity Utility(KOBPIU) is a community first initiative driven by Wipro whose primary focus is to provide a cryptographically verifiable digital identity for the citizens and organisations/associations residing in the city of Kochi, where these organisations/associations/citizens can present these digital identities in place of paper credentials whenever required.In the current scenario, it requires a lot of effort, time and documents to prove one's identity or eligibility. The utility aims to cut down this red tape by providing these digital identities in the most efficient and easiestt way possible.
 
-The desired characteristics of the utility are,
-- Consent management
-- Zero-Knoweldge-Proofs(ZKP)
-- Privacy
-- Security
-
 This initiative is driven with the help of -
 
 - Managed Service Providers - help in conceptualizing and implementing the use cases for this utility.
@@ -24,9 +18,9 @@ This initiative is driven with the help of -
 
 The KOBPIU is intended to serve organizations that desire to participate in digital trust ecosystems and require an enterprise grade governance framework. The framework will:
 
-- Enforce permissioned-writes with contractual instruments that will conform to privacy regulations such as GDPR
-- Maintain financial sustainability of the consortium members without the use of cryptographic tokens
-- Establish a governing board so that no single organization owns the Identity Utility Network
+- Enforce permissioned-writes with contractual instruments that will conform to privacy regulations like GDPR
+- Maintain financial sustainability of the consortium members without using cryptographic tokens
+- Establish a governing board so that no single organization owns the PIU network.
 - Require adherence to specified open standards and protocols
 
 Our mission is "Internet scale digital trust with close to 1 million digital credentials on the network".
@@ -160,11 +154,11 @@ The conveners are going to be,
 
 ### Define
    
-Using the [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/) as a model, a simplified governance framework was built. The KOBPIU networks are run with a very similar governance and structure as what the Sovrin Networks were based on, except that the network will be built for the city of Kochi. All documents are open source, and it will be operated as a public decentralized network. As "Network of Networks" becomes a reality, we hope to be available and at the forefront of collaboration and testing.
+A simplified governance framework was drafted with the help of [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/) as a model. The KOBPIU networks are run with a very similar governance and structure as what the Sovrin Networks were based on, except that the network will be built for a specific jurisdiction. All documents are open source, and it will be operated as a public decentralized network. 
 
-* Will use Linux Foundation open source project models.
-* Will use Hyperledger Indy as the ledger technology
-* Will begin by building a TestNet, then will build a production network and finally a demonstration network as more and more Node Operators come onboard.
+* Will be using Linux Foundation as the open source project models.
+* Will be using Hyperledger Indy as the ledger technology.
+* Will begin by building a TestNet, then a production network and finally a demonstration network as more and more Node Operators come onboard.
 
 ### Create
 
