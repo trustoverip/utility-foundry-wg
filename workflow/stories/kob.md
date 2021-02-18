@@ -114,6 +114,7 @@ The conveners are going to be,
 
 #### 2. Why do we need a Utility?
 
+TODO: Call out that this is to provide identity for all citizens of Kochi w/o compromising on privacy. This is the utility on top of which we are going to host the VON network for the city of Kochi.
 - To give a cryptographically verifiable digital credential for various associations/organizations.
 - To give the control of the identity to its owners in its every sense.
 - To cut down the red tape in identity verification.
@@ -124,18 +125,29 @@ The conveners are going to be,
 
 - The utiltiy is restricted to a particular jurisdiction, the city of Kochi.
 - The utility aims to cut down the cost of hosting a node, incurred by the associations, to the possible minimum.
+TODO:- The KOB community cloud will have an option for associations to pull the infrastructure needed to host the nodes. 
+TODO:- You want to enable quick onboarding of associations w/o a huge upfront cost.
   
 
 #### 4. Who will participate?
 
-- Association of Medical practitioners: Indian Medical Association (Kochi Chapter)
-- Association of Lawyers: Bar Council (Kochi Chapter)
-- Association of Real Estate Developers: CREDAI (Kochi Chapter)
-- Association of Technical Universities
-- Association of Retailers: Retailers Association of India (Kochi Chapter)
-- Association of CBSE schools: Kerala CBSE School Management Association (Kochi Chapter)
-- Association of Driving Schools
+Any association and various digital service providers within the Kochi jurisdiction can participate. 
+Examples of such associations are,
+
+- Medical practitioners: Indian Medical Association (Kochi Chapter)
+- Lawyers: Bar Council (Kochi Chapter)
+- Real Estate Developers: CREDAI (Kochi Chapter)
+- Technical Universities
+- Retailers: Retailers Association of India (Kochi Chapter)
+- CBSE schools: Kerala CBSE School Management Association (Kochi Chapter)
+- Driving Schools
 - Residential Associations
+
+Examples of digital service providers are,
+
+- Logistics
+- Certificate issuing agencies
+- Notaries
   
 #### 5. What are the common stakeholder motivators?
 
