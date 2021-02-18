@@ -108,34 +108,43 @@ The conveners are going to be,
 - Wipro.
 - CUSAT
 - KBA (Kerala Blockchain Academy)
-- Various associations/organizations who wish to have a digital identity.
-- Educational institutions in the city of Kochi.
-  
-
+ 
 #### 2. Why do we need a Utility?
 
+- This utility will provide digital identity for the citizens and organisations of Kochi without compromising on privacy.
+- The VON network for the city of Kochi will be built on top of this utility network.
 - To give a cryptographically verifiable digital credential for various associations/organizations.
 - To give the control of the identity to its owners in its every sense.
-- To cut down the red tape in identity verification.
+- To cut down the red tape which is currently present in the city of Kochi's identity verification process.
 - To give a digital identity that is free of forgery or any such malpractice.
   
-
 #### 3. What is unique about the desired Utility?
 
 - The utiltiy is restricted to a particular jurisdiction, the city of Kochi.
-- The utility aims to cut down the cost of hosting a node, incurred by the associations, to the possible minimum.
-  
+- The participants of the utility will have access to our community cloud - KOB Community Cloud, which will have an option for associations to pull infrastructure needed to host the nodes.
+- The utility wishes to have a quick onboarding of associations without a huge upfront cost.
+- The utility will be developed with the help of community contributors.
 
 #### 4. Who will participate?
 
-- Association of Medical practitioners: Indian Medical Association (Kochi Chapter)
-- Association of Lawyers: Bar Council (Kochi Chapter)
-- Association of Real Estate Developers: CREDAI (Kochi Chapter)
-- Association of Technical Universities
-- Association of Retailers: Retailers Association of India (Kochi Chapter)
-- Association of CBSE schools: Kerala CBSE School Management Association (Kochi Chapter)
-- Association of Driving Schools
+Any association and digital Service Providers within the Kochi jurisdiction can participate. 
+
+Examples of such associations are,
+
+- Medical practitioners: Indian Medical Association (Kochi Chapter)
+- Lawyers: Bar Council (Kochi Chapter)
+- Real Estate Developers: CREDAI (Kochi Chapter)
+- Technical Universities
+- Retailers: Retailers Association of India (Kochi Chapter)
+- CBSE schools: Kerala CBSE School Management Association (Kochi Chapter)
+- Driving Schools
 - Residential Associations
+
+Examples of digital service providers are,
+
+- Logistics
+- Certificate issuing agencies
+- Notaries
   
 #### 5. What are the common stakeholder motivators?
 
@@ -145,16 +154,22 @@ The conveners are going to be,
 - Low expense in hosting a node.
 - Enhance confidency and trust on digital service providers.
 - Dedicated community cloud for availing shared infra.
-- Verified digital identity.
 - ZKP
+- ISPs will get an access to citizens.
+- Citizens can avail trusted digital services.
+- Citizens and associations in the city of Kochi can verify their identity with ease.
 
 #### 6. What are the common stakeholder requirements?
 
-- Ability to host their own infrastructure (In this absense , they can avail the community cloud service.).
+| Stakeholders | Requirements |
+| --- | --- |
+| Citizens of Kochi | They should prove their domicile, ie., they should prove that they reside in the city of Kochi |
+| Associations of Kochi | - Should have the ability or infrastructure to host the node </br> - They should be willing to share the load of running softwares with other associations without compromising security or privacy </br> - They should be willing to follow the policies written in the governance framework |
+| Service Providers | - Improve their services using hyper local automation </br> - They should have a digital service which can be consumed by third parties |
 
 ### Define
    
-A simplified governance framework was drafted with the help of [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/) as a model. The KOBPIU networks are run with a very similar governance and structure as what the Sovrin Networks were based on, except that the network will be built for a specific jurisdiction. All documents are open source, and it will be operated as a public decentralized network. 
+A simplified governance framework was derived from [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/) as a model and tailored to fit the needs of our utilty. The KOBPIU networks are run with a very similar governance and structure as what the Sovrin Networks were based on, except that the network will be built for a specific jurisdiction. All documents are open source, and it will be operated as a public decentralized network. 
 
 * Will be using Linux Foundation as the open source project models.
 * Will be using Hyperledger Indy as the ledger technology.
@@ -168,13 +183,14 @@ A simplified governance framework was drafted with the help of [Sovrin Governanc
 4. Conducted sessions with Hyperledgerkochi.
 5. Built up a website for the project.
 6. Recruited a steward.
-   
+7. Started community contributions.
    
    
 ### Implement
 
 - Drafted Governance documents with Sovrin's Governance Framework as a reference.
 - Drafted Steward Agreement.
+- Other agreements and policy related documents will be added.
   
 
 ### Maintain
